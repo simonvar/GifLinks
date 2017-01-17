@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gif Links</string>
+    <string name="api_key">dc6zaTOxFJmzC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="trending">Trending Gifs</string>
+    <string name="category">Categories</string>
+    <string name="keyword_search">Search</string>
+    <string name="stickers">Trending Stickers</string>
+    <string name="search_text">You can easy search \nby keywords or emoji!\n</string>
+    <string name="there_is_nothing">There is nothing!</string>
+    <string name="network_error">An error occurred during networking</string>
+    <string name="gifs_category">Gifs in category \"%1$s\"</string>
+    <string name="gifs_search">Gifs searched by \"%1$s\"</string>
+</resources>
